@@ -1,4 +1,3 @@
-# Placement Preparation
 # 📚 Placement Preparation Resources
 
 Welcome to the **Placement Preparation** repository!  
